@@ -697,6 +697,11 @@ span {
         text-align: center;
         margin: 2rem 0;
     }
+
+    .skill-heading {
+        margin-left: -10px; 
+        font-size: 60px;
+    }
 }
 
 @media(max-width:991px) {
